@@ -27,10 +27,10 @@
 
 1.将数据库目录下的sql文件导入本地数据库
 
-2.修改 后端接口代码\api\src\db文件中的本地数据库账号和密码
+2.修改后端接口代码\api\src\db文件中的本地数据库账号和密码
    
 3.cmd进入 \后端接口代码\api目录下，用npm install安装项目依赖  用nodemon bin/www 跑项目 （先下载nodemon 若不想下载也可用node跑）
 
-4.cmd进入 前端页面代码\cinema目录下，用npm install安装项目  用npm run serve 跑代码
+4.cmd进入 \前端页面代码\cinema目录下，用npm install安装项目依赖  用npm run serve 跑代码
 
 
