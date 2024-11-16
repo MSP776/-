@@ -33,4 +33,6 @@
 
 4.cmd进入 \前端页面代码\cinema目录下，用npm install安装项目依赖  用npm run serve 跑代码
 
+5.用户名：test  
+  密码： 1234
 
