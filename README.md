@@ -6,13 +6,17 @@
 电影院后台管理系统
 
 前端：Vue2 + Element-Plus + Vue-Router + Axios
+
 后端：SpringBoot + MyBatis
+
 数据库：MySQL
 
 用户购票页面
 
 前端：Vue3 + Element-Plus + Vue-Router + Axios
+
 后端：Node.js + Koa
+
 数据库：MySQL
 
 数据来源：Python -> 猫眼网站
