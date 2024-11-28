@@ -1,9 +1,6 @@
  
 # 电影院后台管理系统和用户购票页面，基于 Vue3 + Java + Node + MySQL + Python 技术栈的一体化电影院售票平台。
 
-需要该项目的+下面二维码
-
-![image](https://raw.githubusercontent.com/MSP776/cinema/refs/heads/main/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 # 一、技术栈
 
@@ -88,3 +85,7 @@
 ![image](https://raw.githubusercontent.com/MSP776/cinema/refs/heads/main/%E8%B4%AD%E7%A5%A8%E9%A1%B5%E9%9D%A2%E2%80%94%E2%80%948.png)
 
 ![image](https://raw.githubusercontent.com/MSP776/cinema/refs/heads/main/%E8%B4%AD%E7%A5%A8%E9%A1%B5%E9%9D%A2%E2%80%94%E2%80%949.png)
+
+需要该项目的+下面二维码
+
+![image](https://raw.githubusercontent.com/MSP776/cinema/refs/heads/main/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
